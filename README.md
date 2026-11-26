@@ -21,7 +21,7 @@ Le travail demandé consiste à réaliser la modélisation du dispositif à trav
 
 Tous les diagrammes sont accessibles via **un seul lien Lucid.app** :
 
-👉 **[CLIQUEZ ICI POUR OUVRIR LES 5 DIAGRAMMES](https://lucid.app/lucidchart/5622a804-50cf-4e7f-96f3-127b52abae7a/edit)**
+👉 **[CLIQUEZ ICI POUR OUVRIR LES 5 DIAGRAMMES](https://lucid.app/lucidchart/5622a804-50cf-4e7f-96f3-127b52abae7a/edit?viewport_loc=-2436%2C-2123%2C4632%2C2579%2C0_0&invitationId=inv_7c8218ec-abed-4806-a337-88dda7ab73ae)**
 
 | # | Diagramme | Règle du cours respectée |
 |---|---|---|
@@ -59,20 +59,20 @@ Tous les diagrammes sont accessibles via **un seul lien Lucid.app** :
 
 ## 🎁 Bonus — Chambre d'hôtel et petit-déjeuner
 
-**Énoncé :** Une chambre d'hôtel plus petit-déjeuner coûte **160 £**. Le petit-déjeuner coûte **120 £ de moins** que la chambre. Décanter la somme des deux.
+**Énoncé :** Une chambre d'hôtel plus petit-déjeuner coûte **160 £**. Le petit-déjeuner coûte **120 £ de moins** que la chambre. Déterminer la somme des deux.
 
 Posons :
 - **C** = prix de la chambre
 - **P** = prix du petit-déjeuner
 
 Système :
-```
+```text
 C + P = 160
 P = C − 120
 ```
 
 Résolution :
-```
+```text
 C + (C − 120) = 160
 2C = 280
 C = 140 £
@@ -106,6 +106,6 @@ Le lien vers les diagrammes est répété dans le PDF avec un encadré **« CLIQ
 
 ## 🔗 Accès rapide
 
-**[▶ Ouvrir les 5 diagrammes sur Lucid.app](https://lucid.app/lucidchart/5622a804-50cf-4e7f-96f3-127b52abae7a/edit)**
+**[▶ Ouvrir les 5 diagrammes sur Lucid.app](https://lucid.app/lucidchart/5622a804-50cf-4e7f-96f3-127b52abae7a/edit?viewport_loc=-2436%2C-2123%2C4632%2C2579%2C0_0&invitationId=inv_7c8218ec-abed-4806-a337-88dda7ab73ae)**
 
 **[📄 Télécharger le rapport PDF](GMM2__Génie_Logiciel_TP_Individuel__ANAHAHOUNDE_Amoussou_Frédy.pdf)**
